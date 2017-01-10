@@ -1,15 +1,6 @@
-[submodule "lynda/builing_site_node_express_repofix"]
-	path = lynda/builing_site_node_express_repofix
-	url = https://github.com/maha2490/tutorials
-[submodule "lynda/projectfolder"]
-	path = lynda/projectfolder
-	url = https://github.com/maha2490/tutorials
 [submodule "lynda/lynda/builing_site_node_express"]
 	path = lynda/lynda/builing_site_node_express
 	url = https://github.com/maha2490/tutorials
 [submodule "lynda/lynda/builing_site_node_express_test"]
 	path = lynda/lynda/builing_site_node_express_test
-	url = https://github.com/maha2490/tutorials/
-[submodule "lynda/builing_site_node_express_test2"]
-	path = lynda/builing_site_node_express_test2
 	url = https://github.com/maha2490/tutorials/
